@@ -5,5 +5,5 @@ A game similar to the App Store hit “Life Line” app. The app will tell a sto
 
 #Screenshot
 
-https://github.com/londonappbrewery/Images/raw/master/Destini.gif
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
 
